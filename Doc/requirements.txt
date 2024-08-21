@@ -1,6 +1,6 @@
 # Requirements for docs build on netlify
 # Pin sphinx to version specified in .travis.yml
-sphinx==2.2.0
+sphinx==3.0.4
 blurb
 python-docs-theme
 requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
